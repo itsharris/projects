@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dr. Mohammad Harris 
-### PhD MRes BEng (Hons) AFHEA MIET | Machine Learning Researcher | Project Manager
+### PhD MRes BEng (Hons) AFHEA MIET | Machine Learning Researcher | Project Manager | Engineering Specialist
 
 🔭 **Current Research:** Micro pin-fin heat sinks   
 🌱 **Learning:** Physics-informed neural networks for CFD  
