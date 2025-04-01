@@ -4,7 +4,7 @@
 🔭 **Current Research:** Micro pin-fin heat sinks @ University of Hertfordshire  
 🌱 **Learning:** Physics-informed neural networks for CFD  
 💬 **Ask me about:** Bio-inspired thermal designs, ML for heat transfer prediction  
-📫 **Contact:** m.harris@herts.ac.uk | [LinkedIn]([your-link](https://www.linkedin.com/in/mharris07/)) | [Google Scholar]([your-link](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en))
+📫 **Contact:** m.harris@herts.ac.uk | [LinkedIn](https://www.linkedin.com/in/mharris07/) | [Google Scholar](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
