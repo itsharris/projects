@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Dr. Mohammad Harris | (PhD, MRes, BEng, AFHEA, MIET, AMIMechE)
 ### Project Manager | Research Scientist | Machine Learning & Agile Manufacturing Specialist
 
-🔭 **Current Research:** Sustainable engineering and energy technologies 
+🔭 **Current Research:** Sustainable engineering and energy technologies @University of Hertfordshire
 🌱 **Learning:** Circular Economy & Cloud Engineering
 💬 **Ask me about:** Bio-inspired thermal designs, ML for heat transfer prediction  
 📫 **Contact:** m.harris@herts.ac.uk | [LinkedIn](https://www.linkedin.com/in/mharris07/) | [Google Scholar](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
