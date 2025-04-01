@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Dr. Mohammad Harris (PhD MRes BEng AFHEA MIET)
+# 👋 Hi, I'm Dr. Mohammad Harris 
+(PhD MRes BEng AFHEA MIET)
 ### Project Manager | Research Scientist | Machine Learning & Agile Manufacturing Specialist
 
 🔭 **Current Research:** Sustainable engineering and energy technologies @ University of Hertfordshire  
