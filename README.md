@@ -21,6 +21,11 @@
 - Developed ML models (XGBoost/RF) with **<3.5% MAPE** for thermal prediction
 - Implemented agile manufacturing with 3D-printed test sections
 
+## 📚 Academic Metrics
+[![Citations](https://img.shields.io/badge/Citations-XXXX-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
+[![h-index](https://img.shields.io/badge/h--index-XX-orange)](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
+[![i10-index](https://img.shields.io/badge/i10--index-XX-green)](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
+
 ```python
 # Sample ML snippet from my research
 from xgboost import XGBRegressor
