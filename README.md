@@ -7,17 +7,13 @@
 📫 **Contact:** m.harris@herts.ac.uk | [LinkedIn](https://www.linkedin.com/in/mharris07/) | [Google Scholar](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
 
 ## 🛠️ Tech Stack
-## 🛠️ Tech Stack & Workflow Integration
+## 🛠️ Tech Stack
 
-### **Core Tools**
-```python
-tech_stack = {
-    "CFD": ["ANSYS Fluent", "OpenFOAM", "COMSOL"],
-    "CAD": ["SolidWorks", "AutoCAD", "3DExperience"],
-    "ML": ["TensorFlow/Keras", "Scikit-learn", "XGBoost"],
-    "Numerical": ["MATLAB", "NumPy/SciPy", "JAX"],
-    "Agile Hardware": ["3D Printing (Formlabs)", "LabView", "Arduino"]
-}
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?logo=ansys&logoColor=black)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1D25?logo=dassaultsystemes&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 
 ## 🔬 Featured Project
 ### [Bio-Inspired Micro Pin-Fin Heat Sinks](https://doi.org/10.1016/j.ijheatmasstransfer.2024.126581)
