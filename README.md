@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Dr. Mohammad Harris | (PhD, MRes, BEng, AFHEA, MIET, AMIMechE)
-### Project Manager | Research Scientist | Machine Learning & Agile Manufacturing Specialist
+# 👋 Hi, I'm Mohammad Harris 
+### Thermal Engineer | ML Researcher | Agile Manufacturing Specialist
 
-🔭 **Current Research:** Sustainable engineering and energy technologies @University of Hertfordshire
-🌱 **Learning:** Circular Economy & Cloud Engineering
+🔭 **Current Research:** Micro pin-fin heat sinks @ University of Hertfordshire  
+🌱 **Learning:** Physics-informed neural networks for CFD  
 💬 **Ask me about:** Bio-inspired thermal designs, ML for heat transfer prediction  
-📫 **Contact:** m.harris@herts.ac.uk | [LinkedIn](https://www.linkedin.com/in/mharris07/) | [Google Scholar](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
+📫 **Contact:** m.harris@herts.ac.uk | [LinkedIn](your-link) | [Google Scholar](your-link)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
