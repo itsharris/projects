@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Mohammad Harris 
-### Thermal Engineer | ML Researcher | Agile Manufacturing Specialist
+# 👋 Hi, I'm Dr. Mohammad Harris 
+### PhD MRes BEng (Hons) AFHEA MIET | Machine Learning Researcher | Project Manager
 
-🔭 **Current Research:** Micro pin-fin heat sinks @ University of Hertfordshire  
+🔭 **Current Research:** Micro pin-fin heat sinks   
 🌱 **Learning:** Physics-informed neural networks for CFD  
 💬 **Ask me about:** Bio-inspired thermal designs, ML for heat transfer prediction  
 📫 **Contact:** m.harris@herts.ac.uk | [LinkedIn](https://www.linkedin.com/in/mharris07/) | [Google Scholar](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
