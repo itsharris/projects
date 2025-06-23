@@ -1,5 +1,3 @@
-I will be using the GitHub webpage versionn not a local one. This is what the MD file says at the moment: 
-
 # 👋 Hi, I'm Dr. Mohammad Harris 
 ### PhD MRes BEng (Hons) AFHEA MIET | Machine Learning Researcher | Project Manager | Engineering Specialist
 
