@@ -24,9 +24,9 @@ I will be using the GitHub webpage versionn not a local one. This is what the MD
 - Implemented agile manufacturing with 3D-printed test sections
 
 ## 📚 Academic Metrics
-[![Citations](https://img.shields.io/badge/Citations-XXXX-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
-[![h-index](https://img.shields.io/badge/h--index-XX-orange)](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
-[![i10-index](https://img.shields.io/badge/i10--index-XX-green)](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/Citations-85-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
+[![h-index](https://img.shields.io/badge/h--index-4-orange)](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
+[![i10-index](https://img.shields.io/badge/i10--index-2-green)](https://scholar.google.com/citations?user=TudprTUAAAAJ&hl=en)
 
 ```python
 # Sample ML snippet from my research
